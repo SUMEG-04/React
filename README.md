@@ -6,7 +6,7 @@ This folder contains some of work using react let start working on it together.
 
 #### Get all items
 
-```http
+```bash
 install nodeJS and npm
 install Visual Studio Code
 install React from terminal
@@ -19,7 +19,7 @@ c:create-react-app <projectname>
 
 #### Get all items
 
-```http
+```bash
 install nodeJS and npm
 install Visual Studio Code
 install React from terminal
